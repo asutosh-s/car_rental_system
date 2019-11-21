@@ -1,2 +1,6 @@
 # CarRental
-Car rental management website based on php as a backend for univ web project
+Car rental management website based on php and MySQL as a backend.
+Database management project.
+
+Features like user/Admin login, Car search, booking cars, bill payment, feed_back system.
+
